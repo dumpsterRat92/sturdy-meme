@@ -65,9 +65,9 @@ For any questions or feedback, feel free to contact me:
 
 Here's a link to the project GitHub:
 
--GitHub; [GitHub Link](https://github.com/dumpsterRat92/sturdy-meme)
+- GitHub: [GitHub Link](https://github.com/dumpsterRat92/sturdy-meme)
 
 Here's a demo video of the completed README Generator: 
 
-[Link to Demo](https://drive.google.com/file/d/1dFevc6h1NzvjpHaC1modk7MNQNR-UrAN/view)
+- Demo: [Link to Demo](https://drive.google.com/file/d/1dFevc6h1NzvjpHaC1modk7MNQNR-UrAN/view)
 
