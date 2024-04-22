@@ -20,7 +20,7 @@
   
   To install the dependencies, run the following command: npm install inquirer.
   
-  ## Usage
+## Usage
   
   To use the README generator:
   
